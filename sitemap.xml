@@ -2,12 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/welcome/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/welcome/
+            http://localhost:8000/featured-kit-easter-egg-painting/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/featured-kit-creator-maria-kitson/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/why-do-puzzles-help-with-stress/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/featured-kit-the-cozy-comfort-kit/
         </loc>
     </url>
     <url>
