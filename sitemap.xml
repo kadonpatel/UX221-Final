@@ -7,7 +7,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/welcome/
         </loc>
     </url>
     <url>
@@ -32,12 +32,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/something/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/something/
+            http://localhost:8000/products/puzzle-n-relax-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/the-candy-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/fidget-toy-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/the-cozy-comfort-kit/
         </loc>
     </url>
     <url>
